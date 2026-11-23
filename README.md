@@ -2,7 +2,7 @@
 
 ### Chào mừng bạn ghé thăm góc nhỏ của Mystogan2303 ✨
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> **Xin chào! Mình là Mystogan2303**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> **Xin chào! Mình là Nguyễn Trình Khoa (Mystogan2303)**
 
 *Một chiếc dev đang trên hành trình khám phá thế giới lập trình và biến những ý tưởng hay ho thành hiện thực* 🚀
 
@@ -14,13 +14,13 @@
 - 🌱 Hiện tại mình đang tập trung học và làm các dự án về **Web Development (HTML, CSS, JavaScript...)**
 - 💻 Bạn có thể ghé xem dự án mới nhất của mình tại **[duan2](https://github.com/Mystogan2303/duan2)**
 - ⚡ Sở thích: Code khuya cùng một ly trà sữa, nghe nhạc chill và khám phá công nghệ mới
-- 📫 Liên hệ với mình qua: **[Email của bạn](mailto:email@example.com)**
+- 📫 Liên hệ với mình qua email: **[nguyentrinhkhoa2303@gmail.com](mailto:nguyentrinhkhoa2303@gmail.com)**
 
 ---
 
 ### 🛠️ Công cụ & Ngôn ngữ yêu thích
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,vscode,git,github" />
 </p>
 
 ---
